@@ -1,8 +1,20 @@
 {
-  "name": "clone-tabnews",
+  "name": "simpleapi.com.br",
+  "description": "O simpleApi é o hub definitivo para desbloquear o potencial do mundo das APIs.",
+  "homepage": "www.simpleapi.com.br/",
+  "author": "Daniel Silva",
   "version": "1.0.0",
-  "description": "Projeto criado para desenvolver novos conhecimentos em programação.",
-  "main": "index.js",
+  "license": "GPL-3.0-only",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielSilva33/simpleapi.com.br.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "engines": {
+    "node": "18"
+  },
   "scripts": {
     "dev": "next dev",
     "lint:check": "prettier --check .",
@@ -10,8 +22,6 @@
     "test": "jest",
     "test:watch": "jest --watch"
   },
-  "author": "",
-  "license": "MIT",
   "dependencies": {
     "next": "^13.1.6",
     "react": "^18.2.0",
