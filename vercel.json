@@ -1,10 +1,7 @@
 {
   "regions": ["gru1"],
   "rewrites": [
-    { "source": "/*", "destination": "https://simpleapi.com.br/" },
-    {
-      "source": "/api/*",
-      "destination": "https://gamenews.dev.br/"
-    }
+    { "source": "/(.*)", "destination": "https://simpleapi.com.br/" },
+    { "source": "/api/(.*)", "destination": "https://gamenews.dev.br/" }
   ]
 }
