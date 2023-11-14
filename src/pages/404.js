@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Footer from "../components/Footer";
 
 export default function NotFoundPage() {
   return (
@@ -28,6 +29,7 @@ export default function NotFoundPage() {
           </div>
         </div>
       </main>
+      <Footer />
     </>
   );
 }
