@@ -23,7 +23,7 @@ export default function CustomizeErrorPage() {
             </Link>
             <Link
               href="/"
-              className="rounded-md px-3.5 py-2.5 text-sm font-semibold text-gray-900 bg-gray-100 shadow-sm hover:bg-indigo-200 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-200"
+              className="rounded-md px-3.5 py-2.5 text-sm font-semibold text-gray-900 bg-gray-100 shadow-sm hover:bg-gray-300 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-200"
             >
               Contate o suporte
             </Link>
