@@ -19,17 +19,13 @@ const Footer = () => {
             </Link>
           </li>
           <li>
-            <Link
-              href="https://www.linkedin.com/in/daniel-silva-1a3209196/"
-              target="_blank"
-              className="hover:underline me-4 md:me-6"
-            >
+            <Link href="/contato" className="hover:underline me-4 md:me-6">
               Contato
             </Link>
           </li>
           <li>
             <Link href="/" className="hover:underline">
-              Política de Privacidade
+              Termos de Uso
             </Link>
           </li>
         </ul>
