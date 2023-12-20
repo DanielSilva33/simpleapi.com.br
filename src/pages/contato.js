@@ -30,21 +30,21 @@ function Contato() {
               </p>
               <div className="ml-4 mt-8">
                 <div className="flex">
-                  <FaLinkedin className="text-4xl text-gray-400" />
                   <Link
                     href="https://www.linkedin.com/in/daniel-silva-1a3209196/"
-                    className="font-semibold text-lg text-white ml-4"
+                    className="flex font-semibold text-lg text-white"
                     target="_blank"
                   >
+                    <FaLinkedin className="text-4xl text-gray-400 mr-2" />
                     LinkedIn
                   </Link>
                 </div>
                 <div className="flex mt-2">
-                  <SiGmail className="text-4xl text-gray-400" />
                   <Link
                     href="mailto:daniel.silva3320@gmail.com"
-                    className="font-semibold text-lg text-white ml-4"
+                    className="flex font-semibold text-lg text-white"
                   >
+                    <SiGmail className="text-4xl text-gray-400 mr-2" />
                     Gmail
                   </Link>
                 </div>
