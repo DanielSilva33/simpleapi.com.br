@@ -8,7 +8,7 @@ const Layout = ({ children }) => {
     title: "SimpleAPI",
     description:
       "O simpleApi é o hub definitivo para desbloquear o potencial do mundo das APIs.",
-    image: `${webserverHost}/default-image-share.png`,
+    image: `${webserverHost}/images/favicon-simple.png`,
     url: `${webserverHost}`,
     type: "website",
   };
@@ -16,7 +16,7 @@ const Layout = ({ children }) => {
   return (
     <div>
       <Head>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/images/favicon.png" />
 
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
