@@ -12,10 +12,10 @@ function Sobre() {
       <Header />
       <section className="text-gray-600 body-font pb-10">
         <div className="container mx-auto">
-          <h2 className="pt-16 mb-1 text-2xl font-semibold tracking-tighter text-center text-gray-200 lg:text-7xl md:text-6xl">
+          <h2 className="pt-16 mb-1 text-2xl font-semibold tracking-tighter text-center text-white lg:text-7xl md:text-6xl">
             Sobre o SimpleAPI
           </h2>
-          <div className="w-full max-w-2xl mx-auto h-80 bg-gray-800 rounded-lg p-8 mt-10 flex items-center">
+          <div className="w-full max-w-2xl mx-auto h-80 bg-gray-900 rounded-lg p-8 mt-10 flex items-center">
             <div className="flex flex-col w-full">
               <div className="flex items-center">
                 <BsInfoSquare className="text-5xl text-gray-400 mr-4 ml-4" />
@@ -34,7 +34,7 @@ function Sobre() {
               </p>
             </div>
           </div>
-          <div className="w-full max-w-2xl mx-auto h-80 bg-gray-800 rounded-lg p-8 mt-10 flex items-center">
+          <div className="w-full max-w-2xl mx-auto h-80 bg-gray-900 rounded-lg p-8 mt-10 flex items-center">
             <div className="flex flex-col w-full">
               <div className="flex items-center">
                 <GrResources className="text-5xl text-gray-400 mr-4 ml-4" />
@@ -52,7 +52,7 @@ function Sobre() {
               </p>
             </div>
           </div>
-          <div className="w-full max-w-2xl mx-auto h-80 bg-gray-800 rounded-lg p-8 mt-10 flex items-center">
+          <div className="w-full max-w-2xl mx-auto h-80 bg-gray-900 rounded-lg p-8 mt-10 flex items-center">
             <div className="flex flex-col w-full">
               <div className="flex items-center">
                 <MdOutlineNotStarted className="text-5xl text-gray-400 mr-4 ml-4" />
@@ -69,7 +69,7 @@ function Sobre() {
               </p>
             </div>
           </div>
-          <div className="w-full max-w-2xl mx-auto h-80 bg-gray-800 rounded-lg p-8 mt-10 flex items-center">
+          <div className="w-full max-w-2xl mx-auto h-80 bg-gray-900 rounded-lg p-8 mt-10 flex items-center">
             <div className="flex flex-col w-full">
               <div className="flex items-center">
                 <HiOutlineSupport className="text-5xl text-gray-400 mr-4 ml-4" />

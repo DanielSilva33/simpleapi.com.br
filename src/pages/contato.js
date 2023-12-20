@@ -12,10 +12,10 @@ function Contato() {
       <Header />
       <section className="text-gray-600 body-font pb-10">
         <div className="container flex flex-col items-center justify-center mx-auto">
-          <h2 className="pt-16 mb-1 text-2xl font-semibold tracking-tighter text-center text-gray-200 lg:text-7xl md:text-6xl">
+          <h2 className="pt-16 mb-1 text-2xl font-semibold tracking-tighter text-center text-white lg:text-7xl md:text-6xl">
             Contato
           </h2>
-          <div className="w-full max-w-4xl h-80 bg-gray-800 rounded-lg p-8 mt-10 flex items-center">
+          <div className="w-full max-w-4xl h-80 bg-gray-900 rounded-lg p-8 mt-10 flex items-center">
             <div>
               <div className="flex">
                 <GrConnect className="text-5xl text-gray-400 mr-4 ml-4" />
