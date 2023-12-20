@@ -19,6 +19,15 @@ const Footer = () => {
             </Link>
           </li>
           <li>
+            <Link
+              href="https://github.com/DanielSilva33/simpleapi.com.br"
+              target="_blank"
+              className="hover:underline me-4 md:me-6"
+            >
+              GitHub
+            </Link>
+          </li>
+          <li>
             <Link href="/contato" className="hover:underline me-4 md:me-6">
               Contato
             </Link>

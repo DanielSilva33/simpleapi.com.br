@@ -34,7 +34,7 @@ function Home() {
               target="_blank"
             >
               <div className="flex text-lg">
-                <span className="justify-center">Github</span>
+                <span className="justify-center">GitHub</span>
               </div>
             </Link>
           </div>
