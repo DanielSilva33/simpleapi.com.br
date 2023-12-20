@@ -23,9 +23,9 @@ const Layout = ({ children }) => {
         <meta name="description" content={defaultMetadata.description} />
         <meta
           name="keywords"
-          content="api, API, NodeJS, Backend, web, javascript"
+          content="API, NodeJS, Backend, Web, Javascript, simple, simpleAPI, api simple, API Simples, API Github, APIs diversas, APIs Financeiras, APIs climaticas, APIs de filmes"
         />
-        <meta name="author" content="Seu Nome" />
+        <meta name="author" content="Daniel Silva" />
 
         <meta property="og:title" content={defaultMetadata.title} />
         <meta property="og:description" content={defaultMetadata.description} />
