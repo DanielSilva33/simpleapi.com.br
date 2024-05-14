@@ -1,6 +1,6 @@
 # [simpleAPI.com.br](https://www.simpleAPI.com.br/)
 
-O simpleAPI é o hub definitivo para desbloquear o potencial do mundo das APIs. Uma plataforma abrangente e centralizada, ele oferece acesso simplificado a uma variedade de APIs públicas de alta qualidade e serviços exclusivos. Simplificando a integração e a criação de aplicativos, nossa API é um recurso confiável para desenvolvedores que desejam impulsionar suas inovações com dados e funcionalidades de várias fontes. Explore um universo de possibilidades com o simpleAPI e leve seus projetos para o próximo nível.
+Uma plataforma abrangente e centralizada, oferecemos acesso simplificado a uma variedade de APIs públicas de alta qualidade e serviços exclusivos. Simplificando a integração e a criação de aplicativos, nossa API é um recurso confiável para desenvolvedores que desejam impulsionar suas inovações com dados e funcionalidades de várias fontes. Explore um universo de possibilidades com o simpleAPI e leve seus projetos para o próximo nível.
 
 ## 🚀 Recursos
 
@@ -26,7 +26,7 @@ Para começar a usar o simpleAPI, siga estas etapas simples:
 
 3. **Integração:** Comece a integrar as APIs em seus projetos e desfrute da simplicidade e eficiência oferecidas pelo simpleAPI.
 
-> Lembre-se de conferir a [documentação de registro da API](link_para_documentacao_de_registro_da_api) para obter instruções sobre como conseguir suas credenciais para utilização da API.
+> Lembre-se de conferir a [documentação de cadastro da API](https://www.simpleapi.com.br) para obter instruções sobre como conseguir suas credenciais para utilização da API.
 
 Sinta-se à vontade para explorar nosso site e descobrir as possibilidades que o simpleAPI pode oferecer aos seus projetos!
 
