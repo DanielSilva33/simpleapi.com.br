@@ -20,7 +20,7 @@ function Home() {
             APIs e serviços exclusivos.
           </h2>
           <div className="flex flex-wrap items-center justify-center mb-12 space-x-4">
-            <Link href="/" passHref>
+            <Link href="https://www.simpleapi.com.br/swagger/index.html" passHref>
               <p className="py-2 px-4 md:py-3 md:px-7 text-sm md:text-md lg:text-lg xl:text-xl bg-white text-black font-semibold inline-block hover:text-black hover:bg-white focus:shadow-outline">
                 Documentação
               </p>

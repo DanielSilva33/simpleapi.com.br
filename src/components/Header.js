@@ -35,7 +35,7 @@ const Header = () => {
                   </Link>
                 </li>
                 <li>
-                  <Link href="/" className="hover:text-gray-400">
+                  <Link href="https://www.simpleapi.com.br/swagger/index.html" className="hover:text-gray-400">
                     Documentação
                   </Link>
                 </li>
@@ -48,7 +48,7 @@ const Header = () => {
           <Link href="/sobre" className="hover:text-gray-400 font-bold">
             Sobre
           </Link>
-          <Link href="/" className="hover:text-gray-400 font-bold">
+          <Link href="https://www.simpleapi.com.br/swagger/index.html" className="hover:text-gray-400 font-bold">
             Documentação
           </Link>
         </nav>
