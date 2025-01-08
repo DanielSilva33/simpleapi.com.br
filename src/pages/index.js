@@ -13,11 +13,10 @@ function Home() {
       <section className="text-gray-600 body-font w-full pr-2 pl-2">
         <div className="max-w-5xl pt-40 pb-24 mx-auto">
           <h1 className="text-3xl md:text-5xl lg:text-6xl xl:text-7xl text-center font-bold text-white mb-6">
-            Desbloqueie o potencial das APIs
+          Simplifique a autenticação e a integração de serviços
           </h1>
           <h2 className="text-lg md:text-xl lg:text-2xl xl:text-3xl font-semibold text-gray-600 text-center mb-11">
-            Integração eficiente e acesso descomplicado a uma diversidade de
-            APIs e serviços exclusivos.
+          Uma plataforma poderosa para autenticação de usuários e soluções personalizadas, com implementação descomplicada.
           </h2>
           <div className="flex flex-wrap items-center justify-center mb-12 space-x-4">
             <Link href="https://www.simpleapi.com.br/swagger/index.html" passHref>
@@ -54,10 +53,10 @@ function Home() {
                   }}
                   className="text-gray-500"
                 />
-                Conexão Simplificada
+                Conexão Rápida
               </h3>
               <p className="text-sm text-gray-200">
-                Integre-se de forma rápida e intuitiva a diversas APIs,
+                Integre-se de forma rápida e intuitiva a diversos serviços,
                 eliminando complicações no desenvolvimento.
               </p>
             </div>
@@ -73,11 +72,11 @@ function Home() {
                   }}
                   className="text-gray-500"
                 />
-                Diversidade de Setores
+                Autenticação Simplificada
               </h3>
               <p className="text-sm text-gray-200">
-                Acesse uma ampla gama de APIs, desde dados financeiros até
-                informações meteorológicas, tudo em um único lugar.
+              Garanta a segurança dos seus usuários com nossa solução de autenticação. 
+              Fácil de integrar, escalável e adaptável às suas necessidades.
               </p>
             </div>
           </div>
@@ -96,7 +95,7 @@ function Home() {
               </h3>
               <p className="text-sm text-gray-200">
                 Explore nossa documentação abrangente, oferecendo orientações
-                passo a passo para cada API disponível.
+                passo a passo para cada serviço disponível.
               </p>
             </div>
           </div>
@@ -114,7 +113,7 @@ function Home() {
                 Serviços Exclusivos
               </h3>
               <p className="text-sm text-gray-200">
-                Além das APIs públicas, oferecemos serviços exclusivos para
+                Oferecemos serviços exclusivos para
                 enriquecer ainda mais suas aplicações.
               </p>
             </div>

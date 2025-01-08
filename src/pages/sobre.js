@@ -29,15 +29,8 @@ function Sobre() {
                   />
                   O que é o SimpleAPI?
                 </h3>
-                <p className="text-sm text-gray-300">
-                  O SimpleAPI é o hub definitivo para desbloquear o potencial do
-                  mundo das APIs. Uma plataforma abrangente e centralizada,
-                  oferecendo acesso simplificado a uma variedade de APIs
-                  públicas de alta qualidade e serviços exclusivos.
-                  Simplificando a integração e a criação de aplicativos, nossa
-                  API é um recurso confiável para desenvolvedores que desejam
-                  impulsionar suas inovações com dados e funcionalidades de
-                  várias fontes.
+                <p className="text-base text-gray-300">
+                  O <strong>SimpleAPI</strong> é uma plataforma feita para desenvolvedores e empresas, oferecemos soluções simples e robusta para autenticação de usuários. Em breve, lançaremos novos serviços, sempre com foco em simplificar a integração e acelerar o desenvolvimento.
                 </p>
               </div>
             </div>
@@ -55,14 +48,8 @@ function Sobre() {
                   />
                   Recursos do SimpleAPI
                 </h3>
-                <p className="text-sm text-gray-300">
-                  O SimpleAPI oferece uma ampla gama de recursos para
-                  simplificar e aprimorar suas integrações com APIs públicas.
-                  Conecte-se com facilidade, acesse APIs de diferentes setores,
-                  explore documentação clara, aproveite serviços exclusivos e
-                  confie em uma fonte centralizada para todas as suas
-                  necessidades de integração com APIs.
-                </p>
+                <p className="text-base text-gray-300">
+                O <strong>SimpleAPI</strong> oferece uma solução simples e eficaz para autenticação de usuários, permitindo gerenciar cadastros, logins e autenticações com segurança. Nossa plataforma facilita a implementação, com documentação clara e suporte dedicado para uma experiência fluida.                </p>
               </div>
             </div>
             <div className="w-full h-auto bg-gray-900 rounded-lg p-6 flex items-center">
@@ -78,12 +65,8 @@ function Sobre() {
                   />
                   Como Começar com o SimpleAPI
                 </h3>
-                <p className="text-sm text-gray-300">
-                  Para começar a usar o SimpleAPI, registre-se e obtenha suas
-                  credenciais de utilização da API. Explore a documentação para
-                  orientações passo a passo sobre como usar cada API e serviço.
-                  Inicie a integração em seus projetos e desfrute da
-                  simplicidade e eficiência oferecidas pelo SimpleAPI.
+                <p className="text-base text-gray-300">
+                  Para começar a usar o <strong>SimpleAPI</strong>, crie sua conta e obtenha suas credenciais de acesso. Consulte nossa documentação para um guia detalhado sobre a integração com nossos serviços. Aproveite a simplicidade e eficiência que o <strong>SimpleAPI</strong> oferece.
                 </p>
               </div>
             </div>
@@ -98,15 +81,10 @@ function Sobre() {
                     }}
                     className="text-gray-400 mr-2"
                   />
-                  Contribuições para o Projeto
+                  Planos e Preços do SimpleAPI
                 </h3>
-                <p className="text-sm text-gray-300">
-                  O projeto, inicialmente criado para estudos, visa melhorar as
-                  integrações via API. Atualmente, não gera custos, pois todos
-                  os recursos utilizados são gratuitos. No entanto, à medida que
-                  o projeto escala, os custos podem surgir. Toda contribuição
-                  para o projeto será bem-vinda.
-                </p>
+                <p className="text-base text-gray-300">
+                O <strong>SimpleAPI</strong> oferece soluções de autenticação e integração com preços flexíveis, adaptados ao seu uso. Nossa missão é fornecer um serviço eficiente e escalável, sempre evoluindo com novos recursos e melhorias.                </p>
               </div>
             </div>
           </div>
